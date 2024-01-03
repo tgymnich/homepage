@@ -1,11 +1,10 @@
 source 'https://rubygems.org'
-gem 'jekyll'
+gem 'jekyll', "~> 4.3"
 
 group :jekyll_plugins do
-    gem 'jekyll-sitemap'
-    gem 'jekyll-seo-tag'
-    gem 'jekyll_version_plugin'
-    gem 'jekyll_include_plugin'
-    gem 'jekyll-octicons'
+    gem 'jekyll-sitemap', "~> 1.4"
+    gem 'jekyll-seo-tag', "~> 2.8"
+    gem 'jekyll_version_plugin', "~> 2.0"
+    gem 'jekyll_include_plugin', "~> 1.1"
+    gem 'jekyll-octicons', "~> 19.8"
   end
-
