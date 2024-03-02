@@ -16,7 +16,7 @@
     "cssnano": "^6.0.3",
     "gulp": "^4.0.2",
     "gulp-postcss": "^9.1.0",
-    "postcss": "^8.4.32",
+    "postcss": "^8.4.35",
     "postcss-import": "^16.0.0"
   },
   "scripts": {
