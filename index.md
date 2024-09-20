@@ -9,7 +9,7 @@ header: Home
 
 ### About
 
-Hey I'm Tim, a graduate student at TU Munich, studying for my M.Sc. in Computer Science. My main interests are in compiler optimizations for high performance computing and programming languages. I mainly work on [Enzyme](https://enzyme.mit.edu) these days.
+Hey I'm Tim! My main interests are in compiler optimizations for high performance computing and programming languages. I mainly work on [Enzyme](https://enzyme.mit.edu) these days.
 
 ### Contact
 
