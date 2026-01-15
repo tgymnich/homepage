@@ -13,7 +13,7 @@
     "cross-env": "^7.0.3",
     "cross-spawn": "^7.0.3",
     "cssnano": "^7.0.6",
-    "gulp": "^5.0.0",
+    "gulp": "^5.0.1",
     "gulp-postcss": "^10.0.0",
     "postcss": "^8.5.3",
     "tailwindcss": "^4.1.13"
